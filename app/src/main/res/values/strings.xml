@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StarPop</string>
+    <string name="start_game">start</string>
+    <string name="currentScore">"Current Score: "</string>
+    <string name="currentLevel">"Current Level: "</string>
+    <string name="needScore">"Need Score: "</string>
+    <string name="exit_game">exit</string>
+</resources>

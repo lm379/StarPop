@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">消消乐</string>
+    <string name="start_game">开始游戏</string>
+    <string name="currentScore">当前分数：</string>
+    <string name="currentLevel">当前关卡：</string>
+    <string name="needScore">通关分数：</string>
+    <string name="exit_game">退出游戏</string>
+</resources>
